@@ -1,0 +1,81 @@
+[
+    {
+      "company": "Agoda",
+      "role": "Project Management Intern",
+      "skills": ["SQL", "Grafana", "Hadoop", "PowerBI", "Confluence", "JIRA", "MS Powerpoint"],
+      "date": "June 2024 - August 2024",
+      "location": "Bangkok, Thailand",
+      "description": [
+        "Implemented a technical and business monitoring dashboard for automation projects to reduce human contact.",
+        "Followed project life cycle from gathering user requirements, creating timelines to implementing and evaluating.",
+        "Analyzed and optimized automation workflows, delivering actionable recommendations for process improvements."
+      ],
+      "icon": "FaClipboardList",
+      "type": "PM"
+    },
+    {
+      "company": "PUMA Asia Pacific",
+      "role": "Product Development Intern",
+      "skills": ["Python", "SharePoint", "Power Apps", "Power Automate"],
+      "date": "April 2024 - May 2024",
+      "location": "Kowloon Bay, Hong Kong",
+      "description": [
+        "Developed Python test scripts to support migration from Power Automate and UiPath, enhancing system reliability.",
+        "Extended the internal material Power Apps platform to support mobile borrowing and returning via bar code scanning."
+      ],
+      "icon": "FaClipboardList",
+      "type": "PM"
+    },
+    {
+      "company": "Azai",
+      "role": "Co-Founder and Technical Lead",
+      "skills": ["Figma", "React Native", "Expo", "NextJS", "MongoDB", "AWS"],
+      "date": "June 2023 - June 2024",
+      "location": "Kennedy Town, Hong Kong",
+      "description": [
+        "Performed in-depth user research, crafted user journey, optimized user experience flow and created captivating Figma prototype for a landlord CRM system startup, winning seed funding from Cyberport University Partnership Program.",
+        "Led a team of 4 developers to implement the solution, employing a ReactJS mobile application and a LINE chatbot."
+      ],
+      "icon": "FaClipboardList",
+      "type": "PM"
+    },
+    {
+      "company": "Siemens Mobility",
+      "role": "Software Engineering Intern",
+      "skills": ["Python", "Perl", "AutoCAD", "Forge", "MS Project", "MS Excel"],
+      "date": "June 2023 - March 2024",
+      "location": "Kwun Tong, Hong Kong",
+      "description": [
+        "Monitored backend performance in 10 MTR substations and adjusted Gantt chart timelines for a 2-year project.",
+        "Performed software migration from Perl to Python as Digital Development Center's initiative to ensure maintainability.",
+        "Conducted testing and replacement utilizing AutoCAD, and streamlined Excel document handling with Python scripts."
+      ],
+      "icon": "FaLaptopCode",
+      "type": "SWE"
+    },
+    {
+      "company": "AIA Insurance Group",
+      "role": "Data Analyst Intern",
+      "skills": ["Python", "Seaborn", "Scikit-learn", "Keras", "XGboost", "KModes", "Adobe Analytics"],
+      "date": "June 2022 - July 2022",
+      "location": "Bangkok, Thailand",
+      "description": [
+        "Developed a dashboard using Adobe Analytics to provide insights on homepage banner performance and created a user segmentation analysis, uncovering insights to enhance marketing strategies.",
+        "Applied machine learning models to evaluate users' likelihood of becoming AIA customers, achieving an 89% F-1 score."
+      ],
+      "icon": "FaDatabase",
+      "type": "DATA"
+    },
+    {
+      "company": "Satta - Ruamduang Platform",
+      "role": "Software Engineering Intern",
+      "skills": ["PHP", "WordPress"],
+      "date": "May 2021 - August 2021",
+      "location": "Remote",
+      "description": [
+        "Directed the redesign and development of a dynamic WordPress site, prioritizing usability enhancements in the design phase and crafting custom PHP plugins to elevate functionality during development."
+      ],
+      "icon": "FaLaptopCode",
+      "type": "SWE"
+    }
+]

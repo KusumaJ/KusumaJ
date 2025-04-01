@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Tune into Therapy",
+      "description": "As part of the User Interface Design class in Fall 2024, my teammates and I developed a prototype for an application that gathers resources to help users focus on their mental health and productivity. From ideation to user research and design, we worked collaboratively to bring our concept to life.",
+      "link": "https://github.com/KusumaJ/TuneIntoTherapy-UID-Project",
+      "tags": ["Figma", "ReactJS", "Flask"]
+    },
+    {
+      "name": "Campus Wellness Smart Calendar",
+      "description": "During DivHacks 2024, my teammates and I created an innovative solution to enhance student well-being using large language models (LLMs). Within 24 hours, we built a functional proof-of-concept demo that integrated AI for personalized calendar management.",
+      "link": "https://github.com/KusumaJ/smart-calendar-chatbot",
+      "tags": ["GenAI", "MongoDB", "Streamlit"]
+    },
+    {
+      "name": "Exploring the Viability of a Simple Classifier on High-Level Extracted Features of Vocal Data",
+      "description": "In my Artificial Intelligence class during Spring 2024, I developed a classifier to detect spam comments using vocal data. By applying dimensionality reduction with PCA and analyzing audio features, I built a model to identify patterns in spam-like behavior.",
+      "link": "https://drive.google.com/file/d/1JdV_SYX9Iaezhe7r8jpE_tufveBzayki/view?usp=sharing",
+      "tags": ["Data Processing", "PCA", "Librosa"]
+    },
+    {
+      "name": "YouTube Spam Classifier",
+      "description": "Using natural language processing, I built a sentiment analysis model to detect spam comments on YouTube. The project involved applying machine learning algorithms to improve detection accuracy.",
+      "link": "https://drive.google.com/file/d/1h0kc1ttFyvw71isW6XTM2qmxlHGVuNQR/view?usp=share_link",
+      "tags": ["Machine Learning", "Scikit-learn,", "SVM"]
+    },
+    {
+      "name": "Horse Racing in Hong Kong: A Predictive Analysis",
+      "description": "In Fall 2023, my group and I conducted a predictive analysis on Hong Kong horse racing data. We applied various machine learning models, including neural networks and KNN, to forecast race outcomes.",
+      "link": "https://drive.google.com/file/d/1Rwo0rKJ3dBYwbEEBoIjhyPFCAvwZlPOg/view?usp=share_link",
+      "tags": ["Neural Network", "KNN", "Predictive Model"]
+    }
+  ]
